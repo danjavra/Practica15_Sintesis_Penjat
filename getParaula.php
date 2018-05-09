@@ -8,7 +8,7 @@
        <?php
        //Array i una variable de sessió
        session_start();
-       $_SESSION["paraules"]= array("ordinador", "teclat", 
+       $_SESSION["paraules"]= array("ordinador", "teclat", "ratoli");
        ?>
     </body>
 </html>
